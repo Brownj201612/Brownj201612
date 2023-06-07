@@ -13,17 +13,17 @@ This walkthrough outlines and discusses the prerequisites and installation of VP
 - Proton VPN
 - whatismyipaddress.com
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used: </h2>
 
 - Windows 10</b> (22H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Prerequisites:</h2>
 
 - Azure Virtual Machine 
 - Microsoft Remote Desktop
 - VPN
 
-<h2>Installation Steps</h2>
+<h2>Installation Steps:</h2>
 
 <p>
 <img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
