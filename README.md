@@ -6,11 +6,6 @@
 <h1>Project Summary:</h1>
 This walkthrough outlines and discusses the prerequisites and installation of VPN and remote desktops as well as the use of VPN installation.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used:</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
