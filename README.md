@@ -1,4 +1,4 @@
-### Hi, I'm Joann ☺
+### VPN-Installation & Benefits
 <p align="center">
 <img src="VPNCover.jpeg"/>
 </p>
