@@ -26,7 +26,8 @@ This walkthrough outlines and discusses the prerequisites and installation of VP
 <h2>Installation Steps:</h2>
 
 <p>
-<img src="1st picture to github.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![1st picture to github](https://github.com/Brownj201612/Brownj201612/assets/135289738/d8afdc99-50e9-401c-a779-4eacd8725759)
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Use a browser through your local PC to visit whatismyipaddress.com where the local PC’s  public IP address and real time location will be displayed in the upper and lower left-hand side of the webpage. Once  the accuracy of your current location has been confirmed , notate your IPV4 address, location, and city into a word document or notepad application for future reference. 
