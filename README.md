@@ -111,12 +111,16 @@ Once you have reached this page you will  copy & paste the current  Proton URL i
 <p>
 
 Open the ProtonVPN app and log in. (It is optional to click ‘tour’ ) On the left hand side of the screen free locations will be available to connect to a VPN Server. Once the virtual machine  has established a VPN connection after the  preferred location has been selected a location will be displayed on the upper lefthand corner of the screen.
+                              
+ Purposes:
+ VPN- Virtual Private Networks can be used to creates level of security agaisnt malware, trackers, hackers, etc The installation of VPN Proton prevents sensitive information such as location and IP addresses from being visable. 
  
 
 
 </p>
 <br />
 
+ 
 
 
 
