@@ -1,6 +1,6 @@
 ### Hi, I'm Joann ☺
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="VPNCover.jpeg"/>
 </p>
 
 <h1>Project Summary:</h1>
@@ -26,7 +26,7 @@ This walkthrough outlines and discusses the prerequisites and installation of VP
 <h2>Installation Steps:</h2>
 
 <p>
- <img src="1st20%picture20%to20%github.jpeg">
+ <img src="1stpicturetogithub.jpeg">
 </p>
 <p>
 Use a browser through your local PC to visit whatismyipaddress.com where the local PC’s  public IP address and real time location will be displayed in the upper and lower left-hand side of the webpage. Once  the accuracy of your current location has been confirmed , notate your IPV4 address, location, and city into a word document or notepad application for future reference. 
@@ -106,7 +106,7 @@ Once you have reached this page you will  copy & paste the current  Proton URL i
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="9thpictureongit.png"/>
 </p>
 <p>
 
